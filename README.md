@@ -1,1 +1,1 @@
-VEctor AutoRegression (VAR) of Macroeconomic Time Series
+Vector AutoRegression (VAR) of Macroeconomic Time Series
